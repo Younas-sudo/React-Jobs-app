@@ -8,10 +8,10 @@ const Homepages = () => {
   return (
     <>
       <Hero />
-      <HomeCards />\
+      <HomeCards />
       <Joblistings isHome={true} />
       <ViewAllJobs />
-    </>
+    </>t
   );
 };
 

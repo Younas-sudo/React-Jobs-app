@@ -11,7 +11,7 @@ import JobsPage from './pages/JobsPage';
 import NotFoundPage from './pages/NoFoundPage';
 import JobPage, { jobLoader } from './pages/JobPage';
 import AddJobPage from './pages/AddJobPage'
-import Edit from "./pages/Edit";
+import Edit from "./pages/Edit"; 
 
 
 const App = () => {
