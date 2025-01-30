@@ -11,7 +11,7 @@ const Homepages = () => {
       <HomeCards />
       <Joblistings isHome={true} />
       <ViewAllJobs />
-    </>t
+    </>
   );
 };
 
